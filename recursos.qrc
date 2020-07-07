@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Salario/efectivo.png</file>
+        <file>Salario/salvar.png</file>
+        <file>Salario/anadir.png</file>
+        <file>Salario/bandeja-de-salida.png</file>
+        <file>Salario/calculadora.png</file>
+        <file>Salario/edicion-tex.png</file>
+        <file>Salario/salario.png</file>
+        <file>Salario/informacion.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
